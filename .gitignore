@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Django virtual environment
+django_app/env/
+
+# Flask virtual environment
+flask_app/env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS Finder metadata
+.DS_Store
